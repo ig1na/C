@@ -1,0 +1,2 @@
+ex : premierprog.c
+	gcc -o ex premierprog.c
