@@ -1,1 +1,1 @@
-lol
+for (( i = 0; i < 99; i++)); do ln -s "$i" "$((i + 1))"; done
