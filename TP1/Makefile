@@ -6,7 +6,7 @@ CFLAGS += -g
 
 LDFLAGS = -g
 
-TOUS:= prlimit maccess
+TOUS:= prlimit maccess maccess+
 
 tout: ${TOUS}
 
